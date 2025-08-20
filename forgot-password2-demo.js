@@ -1,4 +1,4 @@
-// forgot-password-demo.js
+// forgot-password2-demo.js
 // Minimal "Forgot Password" demo flow for presentation purposes.
 // NOTE: This is a simplified example. See security notes below.
 
